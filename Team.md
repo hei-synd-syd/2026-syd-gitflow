@@ -31,7 +31,7 @@
 1. Q: Why does my Markdown file looks different on Github than on my local machine?
 1. Q: What is the purpose of a pull request?
 1. Q: What is the status of a new file present in the working directory?
-1. Q: What is the difference between `git pull` and `git fetch`?
+1. Q: What is the difference between `git pull` and `git fetch`? Un detached HEAD signifie que Git est positionné directement sur un commit précis au lieu d’être sur une branche.
 1. Q: What is the difference between a local and a remote repository?
 1. Q: What is a detached HEAD?
 1. Q: What does "Git" mean?

@@ -17,6 +17,8 @@
 1. Q: Does Git work with files other than code?
 1. Q: Does Git keep entire copies of each files at each commit?
 1. How can I collaborate on a project I have no write access to?
+On peut collaborer sans avoir les droits d’écriture en faisant un fork du projet, en modifiant notre propre copie, puis en envoyant une Pull Request au propriétaire du projet pour qu’il puisse accepter nos changements.
+
 1. Q: What is the difference between `git clone` and `git fork`?
 1. Q: What is the difference between Git and GitHub?
 1. Q: What is the difference between GitHub and GitLab?

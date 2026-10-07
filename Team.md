@@ -15,7 +15,7 @@
 1. Q: What is a Github Action and what is it used for?
 1. Q: What happens to my local repository if the remote is deleted?
 1. Q: Does Git work with files other than code?
-1. Q: Does Git keep entire copies of each files at each commit?
+1. Q: Does Git keep entire copies of each files at each commit? A: Non, Git ne stocke pas une copie complète de chaque fichier à chaque commit, mais réutilise les données inchangées pour économiser de l'espace.
 1. How can I collaborate on a project I have no write access to?
 1. Q: What is the difference between `git clone` and `git fork`?
 1. Q: What is the difference between Git and GitHub?

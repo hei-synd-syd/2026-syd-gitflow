@@ -14,6 +14,7 @@
 1. Q: What is the status of a modified file in Git?
 1. Q: What is a Github Action and what is it used for?
 1. Q: What happens to my local repository if the remote is deleted?
+le dépôt local reste entièrement intact et fonctionnel sur l'ordinateur : Les commandes git push, git pull et git fetch renveront des erreurs
 1. Q: Does Git work with files other than code?
 1. Q: Does Git keep entire copies of each files at each commit?
 1. How can I collaborate on a project I have no write access to?

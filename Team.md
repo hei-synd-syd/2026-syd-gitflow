@@ -25,7 +25,7 @@
 1. Q: What is the default branch name in Git?
 1. Q: What is a tag in Git?
 1. Q: What is a merge conflict?
-1. Q: Can I delete the history of a Git repository?
+1. Q: Can I delete the history of a Git repository?: C'est possible avec des forces push mais cela n'est pas conseillé
 1. Q: What is the staging area?
 1. Q: Give three benefits of using Git.
 1. Q: Why does my Markdown file looks different on Github than on my local machine?

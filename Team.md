@@ -32,6 +32,6 @@
 1. Q: What is the purpose of a pull request?
 1. Q: What is the status of a new file present in the working directory?
 1. Q: What is the difference between `git pull` and `git fetch`?
-1. Q: What is the difference between a local and a remote repository?
+1. Q: What is the difference between a local and a remote repository? A local repository is stored directly on your computer for offline work, while a remote repository is hosted on an online server (like GitHub) to centralize and share the project
 1. Q: What is a detached HEAD?
 1. Q: What does "Git" mean?

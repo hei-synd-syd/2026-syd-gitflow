@@ -13,7 +13,7 @@
 1. Q: What is a commit hash?
 1. Q: What is the status of a modified file in Git?
 1. Q: What is a Github Action and what is it used for?
-1. Q: What happens to my local repository if the remote is deleted?
+1. Q: What happens to my local repository if the remote is deleted? il reste intacte vu que il modifie des commits sur une copie de l originel du dépot distant
 1. Q: Does Git work with files other than code?
 1. Q: Does Git keep entire copies of each files at each commit?
 1. How can I collaborate on a project I have no write access to?

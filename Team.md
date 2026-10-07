@@ -26,6 +26,8 @@
 1. Q: What is a tag in Git?
 1. Q: What is a merge conflict?
 1. Q: Can I delete the history of a Git repository?
+
+    Oui en suprimant le dossier .git et en créant un nouveau dépot, on suprime l'historique des commits. 
 1. Q: What is the staging area?
 1. Q: Give three benefits of using Git.
 1. Q: Why does my Markdown file looks different on Github than on my local machine?

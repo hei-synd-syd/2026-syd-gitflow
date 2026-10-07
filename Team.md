@@ -34,4 +34,4 @@
 1. Q: What is the difference between `git pull` and `git fetch`?
 1. Q: What is the difference between a local and a remote repository?
 1. Q: What is a detached HEAD?
-1. Q: What does "Git" mean?
+1. Q: What does "Git" mean? "Global information tracker"

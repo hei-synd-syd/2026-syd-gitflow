@@ -29,7 +29,7 @@
 1. Q: What is the staging area?
 1. Q: Give three benefits of using Git.
 1. Q: Why does my Markdown file looks different on Github than on my local machine?
-1. Q: What is the purpose of a pull request?
+1. Q: What is the purpose of a pull request? When working in a remote repository and you make changes to the file locally it is still necessary to integrate them into the original repository online. Since you do not have the rights to work on it directly, the only possibility is to make a merge request - pull request - on the original repository. Thus, the administrator can accept the changes, ask you to correct items before accepting the merge, discuss issues, etc.
 1. Q: What is the status of a new file present in the working directory?
 1. Q: What is the difference between `git pull` and `git fetch`?
 1. Q: What is the difference between a local and a remote repository?

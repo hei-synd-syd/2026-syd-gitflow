@@ -10,6 +10,7 @@
 1. Q: What is a commit in Git?
 1. Q: What is a fork in GitHub? It's a personal copy of someone's own repository
 1. Q: Are you sure it is not possible to commit without a message?
+I am sure. It's impossible
 1. Q: What is a commit hash?
 1. Q: What is the status of a modified file in Git?
 1. Q: What is a Github Action and what is it used for?

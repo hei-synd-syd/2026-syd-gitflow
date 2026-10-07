@@ -7,7 +7,7 @@
 1. Q: What is a remote in Git?
 1. Q: Can I have multiple remotes for a single Git repository?
 1. Q: What is a checkout and how does it impact the working directory?
-1. Q: What is a commit in Git?
+1. Q: What is a commit in Git? It's a changment in the code or the document which is given from a coder to the code (committed) and named so it's easier to recognize it after.
 1. Q: What is a fork in GitHub? It's a personal copy of someone's own repository
 1. Q: Are you sure it is not possible to commit without a message?
 1. Q: What is a commit hash?

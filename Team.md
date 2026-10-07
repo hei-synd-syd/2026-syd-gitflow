@@ -19,6 +19,7 @@
 1. How can I collaborate on a project I have no write access to?
 1. Q: What is the difference between `git clone` and `git fork`?
 1. Q: What is the difference between Git and GitHub?
+R: Git est un logiciel qui permet de versionner des fichier et de travailler de manière colaborative sur un même projet. Github est un site et une base de donnée sur laquelle il est possible de déposer et partager des fichier en utilisant git.
 1. Q: What is the difference between GitHub and GitLab?
 1. Q: Which files can or cannot be tracked by Git ?
 1. What is the difference between `git push` and `git commit`?

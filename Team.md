@@ -5,6 +5,7 @@
 1. Q: What is a repository in Git?
 1. Q: What is a branch in Git?
 1. Q: What is a remote in Git?
+Tom Berclaz : A remote is a repository stored online, for example on GitHub. For us, this may correspond to the original repository that we cloned
 1. Q: Can I have multiple remotes for a single Git repository?
 1. Q: What is a checkout and how does it impact the working directory?
 1. Q: What is a commit in Git?

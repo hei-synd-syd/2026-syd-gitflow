@@ -12,7 +12,7 @@
 1. Q: Are you sure it is not possible to commit without a message?
 1. Q: What is a commit hash?
 1. Q: What is the status of a modified file in Git?
-1. Q: What is a Github Action and what is it used for?
+1. Q: What is a Github Action and what is it used for? A GitHub Action is a tool that automatically runs tasks in a GitHub repository. It is used to automate processes such as testing, building, and deploying code.
 1. Q: What happens to my local repository if the remote is deleted?
 1. Q: Does Git work with files other than code?
 1. Q: Does Git keep entire copies of each files at each commit?

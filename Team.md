@@ -26,7 +26,7 @@
 1. Q: What is a tag in Git?
 1. Q: What is a merge conflict?
 1. Q: Can I delete the history of a Git repository?
-1. Q: What is the staging area?
+1. Q: What is the staging area? C'est une zone intermédiaire entre mon dossier de travail et le dépot local. Il contient les changements pour le prochain commit.
 1. Q: Give three benefits of using Git.
 1. Q: Why does my Markdown file looks different on Github than on my local machine?
 1. Q: What is the purpose of a pull request?

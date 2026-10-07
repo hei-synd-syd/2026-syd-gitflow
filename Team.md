@@ -28,7 +28,7 @@
 1. Q: Can I delete the history of a Git repository?
 1. Q: What is the staging area?
 1. Q: Give three benefits of using Git.
-1. Q: Why does my Markdown file looks different on Github than on my local machine?
+1. Q: Why does my Markdown file looks different on Github than on my local machine? mon visualiseur local peut appliquer des styles personnalisés. GitHub, lui a sa propre feuille de style, ce qui modifie les polices, espacements, tailles de titres, tableaux, blocs de code ...
 1. Q: What is the purpose of a pull request?
 1. Q: What is the status of a new file present in the working directory?
 1. Q: What is the difference between `git pull` and `git fetch`?

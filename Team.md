@@ -18,7 +18,7 @@
 1. Q: Does Git keep entire copies of each files at each commit?
 1. How can I collaborate on a project I have no write access to?
 1. Q: What is the difference between `git clone` and `git fork`?
-1. Q: What is the difference between Git and GitHub?
+1. Q: What is the difference between Git and GitHub?--> git est un logiciel des versionnage, github est un serveur où l'on stockes ces versions
 1. Q: What is the difference between GitHub and GitLab?
 1. Q: Which files can or cannot be tracked by Git ?
 1. What is the difference between `git push` and `git commit`?

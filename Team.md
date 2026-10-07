@@ -23,7 +23,7 @@
 1. Q: Which files can or cannot be tracked by Git ?
 1. What is the difference between `git push` and `git commit`?
 1. Q: What is the default branch name in Git?
-1. Q: What is a tag in Git?
+1. Q: What is a tag in Git? It's an annotation that marks a specific commit.
 1. Q: What is a merge conflict?
 1. Q: Can I delete the history of a Git repository?
 1. Q: What is the staging area?

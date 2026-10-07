@@ -6,6 +6,7 @@
 1. Q: What is a branch in Git?
 1. Q: What is a remote in Git?
 1. Q: Can I have multiple remotes for a single Git repository?
+Oui on peut avoir plusieurs remotes pour un seul Git repository
 1. Q: What is a checkout and how does it impact the working directory?
 1. Q: What is a commit in Git?
 1. Q: What is a fork in GitHub? It's a personal copy of someone's own repository

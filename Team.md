@@ -5,7 +5,11 @@
 1. Q: What is a repository in Git?
 1. Q: What is a branch in Git?
 1. Q: What is a remote in Git?
-1. Q: Can I have multiple remotes for a single Git repository?
+
+- A: A remote is the original version of a repo that lies on a cloud or somewhere else, when we want to work on that repo we have create a local copy of that repo (clone the repo).
+We can then procede to work on our local version and push our modifications to the remote repo.
+
+6. Q: Can I have multiple remotes for a single Git repository?
 1. Q: What is a checkout and how does it impact the working directory?
 1. Q: What is a commit in Git?
 1. Q: What is a fork in GitHub? It's a personal copy of someone's own repository
